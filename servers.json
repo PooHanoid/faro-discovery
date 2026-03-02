@@ -1,0 +1,13 @@
+{
+  "servers": [
+    {
+      "id": "main-1",
+      "name": "Main Server",
+      "region": "eu",
+      "baseURL": "http://95.169.201.10:8080",
+      "wsURL": "ws://95.169.201.10:8080"
+    }
+  ],
+  "minVersion": "1.0.0",
+  "message": null
+}
