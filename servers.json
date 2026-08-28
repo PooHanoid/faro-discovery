@@ -1,4 +1,21 @@
-{ "id": "main-1", "name": "Main Server", "region": "eu",
-  "baseURL": "https://faro-messenger.duckdns.org",
-  "wsURL": "wss://faro-messenger.duckdns.org",
-  "spki": ["21DqTDh7eb6ZXnCvVfAmwVMBGf8qRNBN1srF8RQ0sp8="] }
+{
+  "message" : null,
+  "minVersion" : "1.0.0",
+  "servers" : [
+    {
+      "baseURL" : "https:\/\/faro-messenger.duckdns.org",
+      "id" : "main-1",
+      "name" : "Main Server",
+      "region" : "eu",
+      "spki" : [
+        "21DqTDh7eb6ZXnCvVfAmwVMBGf8qRNBN1srF8RQ0sp8="
+      ],
+      "wsURL" : "wss:\/\/faro-messenger.duckdns.org"
+    }
+  ],
+  "signed" : {
+    "key_id" : "k1",
+    "payload" : "eyJpc3N1ZWRfYXQiOiIyMDI2LTA4LTI4VDA5OjMxOjA2WiIsIm1lc3NhZ2UiOm51bGwsIm1pbl92ZXJzaW9uIjoiMS4wLjAiLCJzZXJpYWwiOjEsInNlcnZlcnMiOlt7ImJhc2VVUkwiOiJodHRwczpcL1wvZmFyby1tZXNzZW5nZXIuZHVja2Rucy5vcmciLCJpZCI6Im1haW4tMSIsIm5hbWUiOiJNYWluIFNlcnZlciIsInJlZ2lvbiI6ImV1Iiwic3BraSI6WyIyMURxVERoN2ViNlpYbkN2VmZBbXdWTUJHZjhxUk5CTjFzckY4UlEwc3A4PSJdLCJ3c1VSTCI6IndzczpcL1wvZmFyby1tZXNzZW5nZXIuZHVja2Rucy5vcmcifV19",
+    "sig" : "OOjo5vMCEh7nGxdwiTwC\/0sU0qGB6xXAb6nDKisw0GhfUBPHxWsABIdHgGM6f8DgukRJXM\/bApdjw52ks4IqBg=="
+  }
+}
