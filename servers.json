@@ -8,14 +8,14 @@
       "name" : "Main Server",
       "region" : "eu",
       "spki" : [
-        "21DqTDh7eb6ZXnCvVfAmwVMBGf8qRNBN1srF8RQ0sp8="
+        "dVGiTDJOwo9OVHu\/uQtdLcB41BRRqoQXSGbahJJnWcc="
       ],
       "wsURL" : "wss:\/\/faro-messenger.duckdns.org"
     }
   ],
   "signed" : {
     "key_id" : "k1",
-    "payload" : "eyJpc3N1ZWRfYXQiOiIyMDI2LTA4LTI4VDA5OjMxOjA2WiIsIm1lc3NhZ2UiOm51bGwsIm1pbl92ZXJzaW9uIjoiMS4wLjAiLCJzZXJpYWwiOjEsInNlcnZlcnMiOlt7ImJhc2VVUkwiOiJodHRwczpcL1wvZmFyby1tZXNzZW5nZXIuZHVja2Rucy5vcmciLCJpZCI6Im1haW4tMSIsIm5hbWUiOiJNYWluIFNlcnZlciIsInJlZ2lvbiI6ImV1Iiwic3BraSI6WyIyMURxVERoN2ViNlpYbkN2VmZBbXdWTUJHZjhxUk5CTjFzckY4UlEwc3A4PSJdLCJ3c1VSTCI6IndzczpcL1wvZmFyby1tZXNzZW5nZXIuZHVja2Rucy5vcmcifV19",
-    "sig" : "OOjo5vMCEh7nGxdwiTwC\/0sU0qGB6xXAb6nDKisw0GhfUBPHxWsABIdHgGM6f8DgukRJXM\/bApdjw52ks4IqBg=="
+    "payload" : "eyJpc3N1ZWRfYXQiOiIyMDI2LTEwLTI5VDEwOjUzOjM2WiIsIm1lc3NhZ2UiOm51bGwsIm1pbl92ZXJzaW9uIjoiMS4wLjAiLCJzZXJpYWwiOjIsInNlcnZlcnMiOlt7ImJhc2VVUkwiOiJodHRwczpcL1wvZmFyby1tZXNzZW5nZXIuZHVja2Rucy5vcmciLCJpZCI6Im1haW4tMSIsIm5hbWUiOiJNYWluIFNlcnZlciIsInJlZ2lvbiI6ImV1Iiwic3BraSI6WyJkVkdpVERKT3dvOU9WSHVcL3VRdGRMY0I0MUJSUnFvUVhTR2JhaEpKbldjYz0iXSwid3NVUkwiOiJ3c3M6XC9cL2Zhcm8tbWVzc2VuZ2VyLmR1Y2tkbnMub3JnIn1dfQ==",
+    "sig" : "l+RMIWu65LvApulI9qxLRceszv89QF\/UdXPVbN687+h\/LumjsjcUQSEpciEFnn01+FwIoEjsPDs1aHCHdry\/Cw=="
   }
 }
